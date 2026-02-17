@@ -1,6 +1,6 @@
 # WebAPP com dados do Fifa (17 - 23)
 
-Aplicação Web Python e Streamlit usando os conjuntos de dados do fifa (17 á 23), desenvolvida como projeto minsitrado pela **Asimov Academy**, porém com modificações autorais (Filtro de escolha da edição do jogo entre 2017 e 2023 na visualizaçãp dos dados nas pages).
+Aplicação Web Python e Streamlit usando os conjuntos de dados do fifa (17 á 23), desenvolvida como projeto minsitrado pela **Asimov Academy**, porém com modificações autorais (Filtro de escolha da edição do jogo entre 2017 e 2023 na visualização dos dados nas pages).
 
 ---
 Este WebAPP é uma aplicação que mescla:
